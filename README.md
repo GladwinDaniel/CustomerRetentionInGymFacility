@@ -2,16 +2,6 @@
 
 ## Lean Six Sigma DMAIC Project
 
-<div align="center">
-
-### Project Review - 2
-
-**MGT4003 - Lean Six Sigma Principles**  
-**Department of Management Studies**  
-**Fall Semester 2026**
-
-</div>
-
 ---
 
 ## Project Team
