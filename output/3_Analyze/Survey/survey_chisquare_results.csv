@@ -1,0 +1,11 @@
+Variable,Chi2 Statistic,Degrees of Freedom,p-value,Significant (alpha=0.05),Pct Expected>=5,Note,Interpretation
+Membership Plan Type,1.9075,2,0.3853,No,50%,Warning: 50pct cells expected<5,Membership Plan Type independent of renewal intent
+Weekly Visit Frequency,1.1905,2,0.551431,No,33%,Warning: 67pct cells expected<5,Weekly Visit Frequency independent of renewal intent
+PT / Group Class Enrollment,2.0349,2,0.361519,No,33%,Warning: 67pct cells expected<5,PT / Group Class Enrollment independent of renewal intent
+Membership Duration,2.0089,4,0.734117,No,30%,Warning: 70pct cells expected<5,Membership Duration independent of renewal intent
+Onboarding Experience,0.2661,2,0.875437,No,67%,Warning: 33pct cells expected<5,Onboarding Experience independent of renewal intent
+Machine Wait Times,4.3803,3,0.223215,No,50%,Warning: 50pct cells expected<5,Machine Wait Times independent of renewal intent
+Trainer Attention to Non-PT,0.0,1,1.0,No,75%,Warning: 25pct cells expected<5,Trainer Attention to Non-PT independent of renewal intent
+Progress Toward Fitness Goals,5.3615,3,0.14716,No,38%,Warning: 62pct cells expected<5,Progress Toward Fitness Goals independent of renewal intent
+Age Group,2.9762,3,0.395311,No,38%,Warning: 62pct cells expected<5,Age Group independent of renewal intent
+Gender,1.1254,1,0.288765,No,75%,Warning: 25pct cells expected<5,Gender independent of renewal intent

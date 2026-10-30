@@ -1,0 +1,6 @@
+Variable,F-Statistic,p-value,Significant (alpha=0.05),Plan Means
+Equipment Satisfaction,4.3436,0.01858,Yes,"{'Annual (12 Months)': 4.909, 'Monthly': 4.278, 'Quarterly (3 Months)': 4.19}"
+Trainer Rating,0.7591,0.473756,No,"{'Annual (12 Months)': 4.818, 'Monthly': 4.556, 'Quarterly (3 Months)': 4.571}"
+Value for Money,3.083,0.055194,No,"{'Annual (12 Months)': 4.636, 'Monthly': 3.944, 'Quarterly (3 Months)': 3.762}"
+Renewal Intent (1-10),0.7541,0.476029,No,"{'Annual (12 Months)': 4.727, 'Monthly': 4.611, 'Quarterly (3 Months)': 4.381}"
+Overall Composite Satisfaction,4.8873,0.011794,Yes,"{'Annual (12 Months)': 4.818, 'Monthly': 4.367, 'Quarterly (3 Months)': 4.314}"

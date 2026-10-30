@@ -1,0 +1,401 @@
+Member Id,Name,Mobile,Age,Gender,Member Added,Email,Plan Name,Plan Amount,Paid,Pending Amount,Purchase Date,Expiry Date,Status,Is_Churned,Has_Pending_Payment,Is_Partial_Paid,Membership_Duration_Days,Plan_Duration_Category,Plan_Type,Price_Bracket,Payment_Gap,Join_Month,Join_Month_Name
+1.0,Lokesh,6379478545,,male,2025-07-13,,Family & couple package (one year),14999,4000,7999,2025-07-13,2026-07-12,Expired,1,1,1,364,1 Year,Family/Couple,"High (>₹7,500)",10999,7,Jul
+2.0,S.Divyadharshini,6379221549,20.0,female,2025-07-13,,1 Month ,1500,1000,0,2025-11-15,2025-12-14,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",500,11,Nov
+3.0,Kevin augustine,7736801674,,male,2025-07-13,,Students 3 month plan,2300,2300,0,2026-05-30,2026-08-29,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+4.0,Tamizhvanan,9962223463,,male,2025-07-13,,3 Months,3500,3500,0,2026-06-01,2026-08-31,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+6.0,Hari,8667520047,,male,2025-07-13,,Family pack offer ( one year ),13999,13500,0,2026-01-20,2027-01-19,Active,0,0,0,364,1 Year,Family/Couple,"High (>₹7,500)",499,1,Jan
+7.0,Ravi Teja T,9182819809,,male,2025-07-13,,Gym Old membership ,7666,7666,0,2026-01-14,2027-01-13,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+8.0,Sajith.S,7305457292,,male,2025-07-13,,Students 3 month plan,2300,2300,0,2026-01-19,2026-04-18,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+10.0,VEDHA,8778529513,,male,2025-07-14,,1 Month ,1500,1000,500,2025-10-14,2025-11-13,Expired,1,1,1,30,1 Month,Regular,"Low (≤₹1,500)",500,10,Oct
+11.0, B Ranjith ,7904675591,,male,2025-07-14,,3 Months,3500,3500,0,2026-07-16,2026-10-15,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+12.0,E S Aadhirai Elaveni,9677031995,,female,2025-07-14,,School Student 3 month ,2300,2300,0,2026-08-24,2026-11-23,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+13.0,SATHIS KUMAR,9994167764,,male,2025-07-14,,3 Months,3500,3500,0,2025-07-13,2025-10-12,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+15.0,KUNAL,9548888386,,male,2025-07-15,,3 Months,3500,3300,0,2025-07-15,2025-10-14,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",200,7,Jul
+16.0,Revathi MR,7695907398,,female,2025-07-15,,Students plan ,850,850,0,2026-06-30,2026-07-29,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+14.0,NITHIN R ,9841457597,,male,2025-07-16,,1 Month ,1500,1500,0,2026-09-01,2026-09-30,Active,0,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,9,Sep
+5.0,S.Raju Ram,9080951657,,male,2025-07-17,,One Year ,9999,9000,0,2025-07-13,2026-07-12,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",999,7,Jul
+9.0,Aravind,7550328731,,male,2025-07-17,,Students 3 month plan,2300,2300,0,2026-07-02,2026-10-01,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+17.0,Dilli babu,7200404857,,male,2025-07-17,,3 Months,3500,3500,0,2025-07-17,2025-10-16,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+18.0,Prashanth.S,7358084021,,male,2025-07-17,,3 Months,3500,3500,0,2025-07-17,2025-10-16,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+19.0,M Nalini,9940206731,,female,2025-07-18,,Gym Old membership ,7666,7500,0,2026-05-18,2027-05-17,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",166,5,May
+20.0,Haresh ram,8838729397,,male,2025-07-21,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-01,2027-08-31,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+21.0,Aravindhan,7397274798,,male,2025-07-21,,3 Months,3500,3500,0,2026-09-04,2026-12-03,Active,0,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,9,Sep
+22.0,Gokul kumar,8667464045,,male,2025-07-21,,One Year ,9999,9999,0,2025-07-21,2026-09-20,Active,0,0,0,426,1 Year,Regular,"High (>₹7,500)",0,7,Jul
+23.0,Rithika sri,7358428067,,female,2025-07-25,,1 Month ,1500,1500,0,2026-08-01,2026-08-31,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+24.0,Aryaveer rana,7845144841,,male,2025-07-26,,Students plan ,1200,1200,0,2026-07-05,2026-08-04,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,7,Jul
+25.0,Shakthi singh,7823981002,,male,2025-07-26,,3 Months,3500,3500,0,2026-06-05,2026-09-04,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+26.0,Manikandan ,8939517252,,male,2025-07-27,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-06,2027-08-05,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+27.0,S.Vinitha ,9790962025,,female,2025-07-30,,Personal training 2 Months (48 classes),9999,9000,0,2025-09-16,2025-11-15,Expired,1,0,0,60,2 Months,Personal Training,"High (>₹7,500)",999,9,Sep
+28.0,"Karthikeyan.E ,Lavanya",9677097343,,male,2025-07-30,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-30,2027-08-29,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+29.0,Anand ,9843212410,,male,2025-07-31,,One Year ,9999,3750,3749,2025-07-31,2026-07-30,Expired,1,1,1,364,1 Year,Regular,"High (>₹7,500)",6249,7,Jul
+30.0, Aaksh ,9025865297,,male,2025-07-31,,One Year ,9999,7499,0,2025-07-31,2026-07-30,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",2500,7,Jul
+31.0,LAKSHMI ,9345737385,,female,2025-08-01,,PERSONAL TRAINING 1 ONE YEAR ,63993,44000,19993,2025-09-01,2026-08-31,Expired,1,1,1,364,1 Year,Personal Training,"High (>₹7,500)",19993,9,Sep
+32.0,Bharani tharan,6382852974,,male,2025-08-01,,Students plan ,1200,1100,0,2026-08-06,2026-09-05,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",100,8,Aug
+33.0,KUMARESSAN,9500133428,,male,2025-08-01,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-01,2027-08-31,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+34.0,Nihal Mohammad ,9633969607,,male,2025-08-01,,Students plan ,850,850,0,2026-06-03,2026-07-02,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+35.0,SWATHI ,9361302254,,female,2025-08-02,,3 Months,3500,3500,0,2026-07-13,2026-10-12,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+36.0,BANUPRIYA ,8056260084,,female,2025-08-02,,Personal training 2 Months (48 classes),9999,9999,0,2026-01-25,2026-03-24,Expired,1,0,0,58,2 Months,Personal Training,"High (>₹7,500)",0,1,Jan
+37.0,J PUSHPA PAVITHRA ,9384622586,,female,2025-08-02,,1 Month ,1500,1500,0,2026-01-05,2026-02-04,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,1,Jan
+38.0,K GUNASEKARAN ,9965222922,,male,2025-08-02,,Exchange plan ,0,0,0,2026-09-04,2027-09-03,Active,0,0,0,364,Other,Promotional/Offer,"Low (≤₹1,500)",0,9,Sep
+39.0,Mohan,9150191330,,male,2025-08-02,,Students plan ,1200,1200,0,2026-08-10,2026-09-09,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+40.0,YOSHWA G ,9360335431,,male,2025-08-04,,Students plan ,1200,800,0,2026-08-17,2026-09-16,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",400,8,Aug
+41.0,Mohan ,8608624908,,male,2025-08-04,,3 Months,3500,3500,0,2026-06-10,2026-09-09,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+42.0,Tharun,73389147146,,male,2025-08-05,,Students plan ,1200,1200,0,2026-08-10,2026-09-09,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+43.0,Gokulavasan,8438177583,,male,2025-08-06,,Students plan ,1200,1200,0,2026-08-20,2026-09-19,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+44.0, P SARATH KUMAR,9789982925,,male,2025-08-06,,3 Months,3500,2500,0,2025-08-06,2025-11-05,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,8,Aug
+45.0,K KUMAR,9790980595,,male,2025-08-06,,3 Months,3500,2500,0,2025-08-06,2025-11-05,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,8,Aug
+46.0,J MARI,7339330718,,male,2025-08-06,,3 Months,3500,2500,0,2025-08-06,2025-11-05,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,8,Aug
+47.0,P MTHAMILSELVAM,8637613828,,male,2025-08-06,,3 Months,3500,3300,0,2026-08-06,2026-11-05,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",200,8,Aug
+48.0, D thooriga,9600822345,,female,2025-08-06,,School Student 3 month ,2300,2300,0,2026-08-24,2026-11-23,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+49.0,  J JAGADHIS KUMAR,9841214349,,male,2025-08-06,,1 Month ,1500,1400,0,2026-04-20,2026-05-19,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",100,4,Apr
+50.0,J SANJAY KUMAR,9384607023,,male,2025-08-06,,3 Months,3500,2500,0,2025-08-06,2025-11-05,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,8,Aug
+51.0,R.Gopi,8189901584,,male,2025-08-07,,1 Month ,1500,1500,0,2026-09-04,2026-10-03,Active,0,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,9,Sep
+52.0,Akash ,6374844402,,male,2025-08-07,,3 Months,3500,2500,0,2025-08-07,2025-11-06,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,8,Aug
+53.0,Raja,6382776568,,male,2025-08-07,,1 Month ,1500,1500,0,2026-09-01,2026-09-30,Active,0,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,9,Sep
+54.0,Santhosh ,8754182869,,male,2025-08-07,,3 Months,3500,3000,0,2026-02-07,2026-05-06,Expired,1,0,0,88,3 Months,Regular,"Medium (₹1,501-₹3,500)",500,2,Feb
+55.0,Naveen raj,9360144301,,male,2025-08-07,,Students 3 month plan,2300,2300,0,2025-08-07,2025-11-06,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+56.0,Nithish Raj ,7010359956,,male,2025-08-07,,Students 3 month plan,2300,2300,0,2025-08-07,2025-11-06,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+57.0,Guru prashanth ,9486189959,,male,2025-08-07,,Students 3 month plan,2300,2300,0,2025-08-07,2025-11-06,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+58.0,M VIGNESH,9360540677,,male,2025-08-08,,Students 3 month plan,2300,2300,0,2025-08-08,2025-11-07,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+59.0,Harish ,7806827374,,male,2025-08-09,,Students 3 month plan,2300,2300,0,2026-06-10,2026-09-09,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+60.0,P.Buvaneshwaran,8098410240,,male,2025-08-11,,1 Month ,1500,1300,0,2025-09-11,2025-10-10,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",200,9,Sep
+61.0,Sanjeev roshan,9342432918,,male,2025-08-11,,Students plan ,1200,1200,0,2026-07-11,2026-08-20,Expired,1,0,0,40,Other,Student,"Low (≤₹1,500)",0,7,Jul
+62.0,R JAGAN PRABHU,8124879191,,male,2025-08-12,,Students plan ,850,850,0,2026-06-01,2026-06-30,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+63.0,AJAY,8754595628,,male,2025-08-12,,1 Month ,1500,1500,0,2025-10-12,2025-11-11,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,10,Oct
+64.0,Harshan,8754461526,,male,2025-08-12,,School Student 1 month ,850,850,0,2026-08-11,2026-09-10,Active,0,0,0,30,1 Month,Student,"Low (≤₹1,500)",0,8,Aug
+65.0,S LOGESHWARAN,8870925554,,male,2025-08-12,,Students plan ,850,850,0,2025-08-12,2025-09-11,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+66.0,M RANJITHVEL,7207160517,,male,2025-08-12,,Students plan ,850,850,0,2025-08-12,2025-09-11,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+67.0,Bharath,9841460953,,male,2025-08-13,,3 Months,3500,3500,0,2026-06-13,2026-09-12,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+68.0,Kabith vajan,8015013273,,male,2025-08-13,,STUDENTS 6 MONTH PLAN,4500,4500,0,2026-06-29,2026-12-28,Active,0,0,0,182,6 Months,Student,"Mid-High (₹3,501-₹7,500)",0,6,Jun
+69.0,Sowmya ramachandran,7548885409,,female,2025-08-14,,Students plan ,850,850,0,2026-06-30,2026-07-29,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+70.0,SARATHKUMAR ,9094552030,,male,2025-08-14,,3 Months,3500,3400,0,2026-07-11,2026-10-10,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",100,7,Jul
+71.0,R RANKESH ,8526411919,,male,2025-08-16,,3 Months,3500,3200,0,2026-08-31,2026-12-29,Active,0,0,0,120,3 Months,Regular,"Medium (₹1,501-₹3,500)",300,8,Aug
+72.0,S.divakar,6379096312,,male,2025-08-18,,Students plan ,850,850,0,2025-10-18,2025-11-17,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,10,Oct
+73.0,K.veeraragavan,9500177122,,male,2025-08-18,,Students plan ,850,850,0,2025-10-18,2025-11-17,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,10,Oct
+74.0,Suriya,8825565942,,male,2025-08-18,,Students plan ,850,850,0,2026-03-05,2026-04-04,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+75.0,K KRISHNA,7305158239,,male,2025-08-20,,Students plan ,850,850,0,2026-06-20,2026-07-19,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+76.0,JEEVANKUMAR,7339423813,,male,2025-08-21,,Students plan ,850,850,0,2026-06-22,2026-07-21,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+77.0,M shanmugha priya,8056723289,,female,2025-08-25,,3 Months,3500,3500,0,2026-07-07,2026-10-06,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+78.0,J SRI NANDHA,9585483097,,male,2025-08-25,,Students 3 month plan,2300,2300,0,2026-06-26,2026-09-25,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+79.0,Prabakar,9840401585,,male,2025-08-25,,1 Month ,1500,1500,0,2026-06-12,2026-07-11,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,6,Jun
+80.0,Yuvaraj ,9629631390,,male,2025-08-26,,1 Month ,1500,1500,0,2026-07-17,2026-08-16,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,7,Jul
+81.0,SELVAMANIKANDAN,9025299582,,male,2025-08-26,,Gym Old membership ,7666,7500,0,2026-02-02,2027-02-01,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",166,2,Feb
+82.0,K SATHIYAN,8056511546,,male,2025-08-28,,One Year ,9999,7500,0,2025-08-28,2026-08-27,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",2499,8,Aug
+83.0,M ANBARASAN,8939969977,,male,2025-08-28,,One Year ,9999,7500,0,2025-08-28,2026-08-27,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",2499,8,Aug
+84.0,Praveen Kumar ,9788174606,,male,2025-08-31,,Students 3 month plan,2300,2300,0,2026-06-13,2026-09-12,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+85.0,Srikanth,9094927726,,male,2025-09-01,,Students plan ,1200,1200,0,2026-08-10,2026-09-09,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+86.0,B VIJAYAKANTH,9941122095,,male,2025-09-01,,Gym Old membership ,7666,7666,0,2026-01-01,2026-12-31,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+87.0,M Surya ,9150976130,,male,2025-09-01,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-02,2027-08-01,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+88.0,DHINAGARAN,9940432807,,male,2025-09-01,,1 Month ,1500,1500,0,2025-09-01,2025-09-30,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,9,Sep
+89.0,MOHAN,9344801677,,male,2025-09-01,,3 Months,3500,3500,0,2025-09-01,2025-11-30,Expired,1,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,9,Sep
+90.0,MONISHA RAM ,8870730037,,male,2025-09-01,,3 Months,3500,3500,0,2025-09-01,2025-11-30,Expired,1,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,9,Sep
+91.0,V.L.kamalesh,7200442600,,male,2025-09-01,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+92.0,ARAVIND B,9344249749,,male,2025-09-02,,One Year ,9999,7499,0,2025-09-02,2026-09-01,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",2500,9,Sep
+93.0,Bala,7305603094,,male,2025-09-02,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+94.0,A ARUN KUMAR,9841517814,,male,2025-09-02,,3 Months,3500,2500,0,2025-09-02,2026-10-27,Active,0,0,0,420,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,9,Sep
+95.0,S VIKRAM,9791345343,,male,2025-09-02,,3 Months,3500,3400,0,2026-06-02,2026-09-01,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",100,6,Jun
+96.0,Karthik ,8190030508,,male,2025-09-04,,3 Months,3500,3500,0,2026-07-16,2026-10-15,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+97.0,Vishnu ,6383645553,,male,2025-09-04,,3 Months,3500,3500,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+98.0,Yuvaraj ,9940242023,,male,2025-09-05,,Anniversary pack 1 year +1month,7999,7999,0,2026-06-03,2027-07-02,Active,0,0,0,394,1 Year,Promotional/Offer,"High (>₹7,500)",0,6,Jun
+99.0,MURUGAN ,9962187810,,male,2025-09-08,,Personal training 1 month (24 classes),5999,5999,0,2025-10-08,2025-11-07,Expired,1,0,0,30,1 Month,Personal Training,"Mid-High (₹3,501-₹7,500)",0,10,Oct
+100.0,JEEVANPRASATH S,6380371949,,male,2025-09-08,,One Year ,9999,6999,0,2025-09-05,2026-09-04,Expired,1,0,0,364,1 Year,Regular,"High (>₹7,500)",3000,9,Sep
+101.0,M AKASH ,7550209265,,male,2025-09-08,,3 Months,3500,3300,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",200,7,Jul
+102.0,V VINITH,7200633422,,male,2025-09-08,,Students 3 month plan,2300,2300,0,2026-06-20,2026-09-19,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+103.0,RAJA G,9551953832,,male,2025-09-10,,6 Months,6000,6000,0,2025-09-10,2026-03-09,Expired,1,0,0,180,6 Months,Regular,"Mid-High (₹3,501-₹7,500)",0,9,Sep
+104.0,R.Ganesh,9884106618,,male,2025-09-12,,Family & couple package (3 Months),5500,5500,0,2025-09-08,2025-12-07,Expired,1,0,0,90,3 Months,Family/Couple,"Mid-High (₹3,501-₹7,500)",0,9,Sep
+105.0,Bhagavathi lingam,9344485628,,male,2025-09-12,,Students 3 month plan,2300,2300,0,2026-06-11,2026-09-10,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+106.0,Praveen bala,8148284244,,male,2025-09-12,,Students 3 month plan,2300,2300,0,2026-06-11,2026-09-10,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+107.0,GURUPRASAD,8110043259,,male,2025-09-15,,Students 3 month plan,2300,2300,0,2026-06-11,2026-09-10,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+108.0,GOKUL K,6381782991,,male,2025-09-15,,Students plan ,850,850,0,2025-12-15,2026-01-14,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,12,Dec
+109.0,ASWIN,9930240119,,male,2025-09-15,,Students plan ,850,850,0,2025-12-15,2026-01-14,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,12,Dec
+110.0,Jagathesh,6369970560,,male,2025-09-16,,Students plan ,1200,1200,0,2026-09-01,2026-09-30,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+111.0,Mani ,7200346841,,male,2025-09-16,,Students plan ,850,850,0,2026-06-07,2026-07-06,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+112.0,Giridharamoorthi,9677468969,,male,2025-09-16,,3 Months,3500,3500,0,2026-06-16,2026-09-15,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+113.0,Jyothishankar ,9360564330,,male,2025-09-17,,Students plan ,850,850,0,2026-06-01,2026-06-30,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+114.0,S vetril vel,9786965025,,male,2025-09-17,,Students 3 month plan,2300,2300,0,2026-06-23,2026-09-22,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+115.0,Anbuarasan,8015664177,,male,2025-09-18,,Summer offer 1 year ,7999,7999,0,2026-06-22,2027-06-21,Active,0,0,0,364,1 Year,Promotional/Offer,"High (>₹7,500)",0,6,Jun
+116.0,A SANJAY PALANI VEL,7016303625,,male,2025-09-18,,One Year ,9999,8000,0,2025-09-18,2026-11-22,Active,0,0,0,430,1 Year,Regular,"High (>₹7,500)",1999,9,Sep
+117.0,A LOKESH CHATRAPATHY SIVAJI,7294876757,,male,2025-09-18,,One Year ,9999,8000,0,2025-09-18,2026-09-17,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",1999,9,Sep
+118.0,Ranjith ,9940464224,,male,2025-09-19,,1 Month ,1500,1500,0,2026-06-29,2026-07-28,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,6,Jun
+119.0,M.logeshwari,9003016427,,female,2025-09-19,,Gym Old membership ,7666,7634,0,2025-12-19,2026-12-18,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",32,12,Dec
+120.0,Prajin,9514108177,,male,2025-09-20,,Students plan ,1200,1200,0,2026-08-28,2026-09-27,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+121.0,Arun Kumar ,8939787771,,male,2025-09-22,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+122.0,Santhanavel ,9092032347,,male,2025-09-25,,Gym Old membership ,7666,7666,0,2026-01-25,2027-01-24,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+123.0,VIVEK I,8680022933,,male,2025-09-26,,One Year ,9999,7999,0,2025-09-26,2026-09-25,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",2000,9,Sep
+124.0,Sachin thira,6385823696,,male,2025-09-27,,Students plan ,850,850,0,2026-02-27,2026-03-26,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+125.0,Heman Aravind ,9087107257,,male,2025-09-30,,Students 3 month plan,2300,2300,0,2026-06-22,2026-09-21,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+126.0,Saarukesh,8838252832,,male,2025-09-30,,Students 3 month plan,2300,2300,0,2026-06-22,2026-09-21,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+127.0,Vivek ,9940492678,,male,2025-10-02,,One Year ,9999,9000,0,2025-10-02,2026-10-01,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",999,10,Oct
+128.0,AJAY R ,9840800463,25.0,male,2025-10-02,,3 Months,3500,3200,0,2026-05-26,2026-08-25,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",300,5,May
+129.0,Kavya M,9994978857,,female,2025-10-02,,Students plan ,850,850,0,2026-06-29,2026-07-28,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+130.0,Kalimuthukumar ,9597497044,,male,2025-10-04,,Personal training 2 Months (48 classes),9999,9999,0,2026-08-20,2026-10-19,Active,0,0,0,60,2 Months,Personal Training,"High (>₹7,500)",0,8,Aug
+131.0,Alex pandian ,8012343375,,male,2025-10-06,,1 Month ,1500,1500,0,2026-02-06,2026-03-05,Expired,1,0,0,27,1 Month,Regular,"Low (≤₹1,500)",0,2,Feb
+132.0,Jagan ,8526265775,,male,2025-10-06,,Personal training 3 Months (72 classes),15999,15000,0,2025-10-06,2026-01-05,Expired,1,0,0,91,3 Months,Personal Training,"High (>₹7,500)",999,10,Oct
+133.0,Alagarsamy ,9789979933,,male,2025-10-06,,One Year ,9999,9999,0,2025-10-06,2026-10-05,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,10,Oct
+134.0,Lavanya devi ,9840334097,,female,2025-10-06,,1 Month ,1500,1500,0,2025-10-06,2025-11-05,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,10,Oct
+135.0,Lishanth kumar ,9080305965,,male,2025-10-06,,1 Month ,1500,1500,0,2025-10-06,2025-11-05,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,10,Oct
+136.0,Ramesh ,9940653661,,male,2025-10-06,,Gym Old membership ,7666,7666,0,2026-01-06,2027-01-05,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+137.0,Ram,9003105643,,male,2025-10-06,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-08,2027-09-07,Active,0,0,0,426,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+138.0,Bringle,6379464812,,male,2025-10-06,,Students plan ,850,850,0,2025-11-06,2025-12-05,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,11,Nov
+139.0,Vickneya ,9443962901,,male,2025-10-06,,Students plan ,850,850,0,2026-03-06,2026-04-18,Expired,1,0,0,43,Other,Student,"Low (≤₹1,500)",0,3,Mar
+140.0,Pavan kumar ,7871672767,,male,2025-10-06,,Students plan ,1200,1200,0,2026-09-04,2026-10-03,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+141.0,Clement moses ,9600756890,,male,2025-10-06,,Students plan ,1200,1200,0,2026-08-01,2026-08-31,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+142.0,PARTHASARADHI,7358031087,,male,2025-10-06,,Students 3 month plan,3199,3199,0,2026-09-01,2026-11-30,Active,0,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,9,Sep
+143.0,G NANDHA ,8489013947,30.0,male,2025-10-06,,One Year ,9999,8000,0,2025-10-06,2026-10-05,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",1999,10,Oct
+144.0,R KUMAR ,7305582850,,male,2025-10-06,,3 Months,3500,3500,0,2026-08-20,2026-11-19,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,8,Aug
+145.0,Logesh,7338848189,,male,2025-10-07,,3 Months,3500,2500,0,2026-02-25,2026-05-24,Expired,1,0,0,88,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,2,Feb
+146.0,Latha,733879996,,female,2025-10-07,,3 Months,3500,3500,0,2026-07-30,2026-10-29,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+147.0,Vikhraman G.S,9345758641,,male,2025-10-07,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-06,2027-08-05,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+148.0,N MURUGAN ,9344914325,,male,2025-10-07,,1 Month ,1500,1500,0,2025-10-07,2025-11-06,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,10,Oct
+149.0,D magizhini ,9500990922,,female,2025-10-07,,School Student 3 month ,2300,2300,0,2026-08-24,2026-11-23,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+150.0,Srinath,6369786481,,male,2025-10-07,,STUDENTS 6 MONTH PLAN,4600,4500,0,2026-06-17,2026-12-16,Active,0,0,0,182,6 Months,Student,"Mid-High (₹3,501-₹7,500)",100,6,Jun
+151.0,RISHI R,6380225055,,male,2025-10-08,,STUDENT 1 ONE YEAR PLAN ,9999,8500,0,2025-10-08,2026-11-08,Active,0,0,0,396,1 Year,Student,"High (>₹7,500)",1499,10,Oct
+152.0,Asvin kumar ,9940085451,,male,2025-10-08,,3 Months,3500,3500,0,2026-06-30,2026-09-29,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+153.0,BASKAR S,9791010877,,male,2025-10-09,,Gym Old membership ,7666,7200,0,2026-01-09,2027-01-08,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",466,1,Jan
+154.0,Yukesh,8610367763,,male,2025-10-09,,Students plan ,1200,1200,0,2026-07-20,2026-08-19,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,7,Jul
+155.0,ABHIJITH RLAL,9188050574,,male,2025-10-10,,Students 3 month plan,2300,2300,0,2026-07-04,2026-10-03,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+156.0,SIVA SATHIYAN ,9952575437,,male,2025-10-10,,Students plan ,850,850,0,2025-10-10,2025-11-09,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,10,Oct
+157.0,Jai ganesh,9498121585,,male,2025-10-13,,Personal training 3 Months (72 classes),15999,15000,0,2025-10-13,2026-01-12,Expired,1,0,0,91,3 Months,Personal Training,"High (>₹7,500)",999,10,Oct
+158.0,Ruthra ,6380815968,,male,2025-10-13,,Students plan ,850,850,0,2025-10-13,2025-11-12,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,10,Oct
+159.0,S joseph,7796488082,,male,2025-10-13,,Students plan ,850,850,0,2026-06-24,2026-07-23,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+160.0,Suresh ,9940446419,,male,2025-10-13,,Family & couple package (3 Months),5500,5500,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Family/Couple,"Mid-High (₹3,501-₹7,500)",0,7,Jul
+161.0,Nandesh kumar ,9360826431,,male,2025-10-16,,1 Month ,1500,1500,0,2026-08-17,2026-09-16,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+162.0,Sayanth kumar ,6374070983,,male,2025-10-17,,3 Months,3500,3500,0,2026-07-13,2026-10-12,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+163.0,Shinas ameen,9562059643,,male,2025-10-18,,Students plan ,1200,1200,0,2026-08-31,2026-09-29,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,8,Aug
+164.0,Sakthi ,7305428553,,male,2025-10-24,,1 Month ,1500,1500,0,2025-10-24,2025-11-23,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,10,Oct
+165.0,M VIVEK,9442820099,,male,2025-10-24,,Gym Old membership ,7666,7666,0,2026-01-24,2027-01-23,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+166.0,R. PRAVEEN,8939363744,,male,2025-10-24,,Students plan ,850,850,0,2025-10-24,2025-11-23,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,10,Oct
+167.0,Anand ,9361142788,,male,2025-10-25,,Students plan ,850,850,0,2026-06-01,2026-06-30,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+168.0,Kalaivanan,9843810956,,male,2025-10-26,,Students 3 month plan,3199,1600,1599,2026-07-29,2026-10-28,Active,0,1,1,91,3 Months,Student,"Medium (₹1,501-₹3,500)",1599,7,Jul
+169.0,Jayaram ,7550029947,,male,2025-10-27,,Students plan ,850,850,0,2026-06-09,2026-07-08,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+170.0,Aniruth,8925312143,,male,2025-10-27,,Students plan ,850,850,0,2026-06-08,2026-07-07,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+171.0,Vignesh ,8825651589,,male,2025-10-27,,Students plan ,850,850,0,2026-04-23,2026-05-22,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,4,Apr
+172.0,D dhavamani,9843750877,,male,2025-10-27,,Students plan ,1200,1000,0,2026-07-30,2026-08-29,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",200,7,Jul
+173.0,K kaninesh,9841141966,,male,2025-10-29,,Students plan ,1200,1200,0,2026-07-30,2026-08-29,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,7,Jul
+174.0,Vijay,9962119321,,male,2025-10-29,,1 Month ,1500,1500,0,2026-07-01,2026-07-31,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,7,Jul
+175.0,Swetha G,6385170292,,female,2025-10-29,,Students plan ,850,850,0,2026-06-30,2026-07-29,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+176.0,R ramya,6380933071,,female,2025-10-30,,3 Months,3500,3500,0,2026-06-18,2026-09-17,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,6,Jun
+177.0,Varun,6383053334,,male,2025-10-30,,3 Months,3500,3500,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+178.0,T RAJA DURAI,6383926633,,male,2025-11-01,,3 Months,3500,1700,1800,2026-08-24,2026-11-23,Active,0,1,1,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1800,8,Aug
+179.0,M MADHUMITHA M ,7010321281,23.0,female,2025-11-01,,3 Months,3500,3500,0,2026-08-27,2026-11-26,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,8,Aug
+180.0,R k soumya mahalakshmi,9444184266,,female,2025-11-01,,Students plan ,1200,1200,0,2026-08-06,2026-09-05,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+181.0,Veerapandi ,6374284795,,male,2025-11-03,,One Year ,9999,8500,0,2025-11-01,2026-10-31,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",1499,11,Nov
+182.0,Yogapriyan,9791135833,,male,2025-11-03,,Students 3 month plan,2300,2300,0,2026-06-23,2026-09-22,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+183.0,Dhanush,8925083603,,male,2025-11-03,,Students 3 month plan,2300,2300,0,2026-06-23,2026-09-22,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+184.0,V VIJAYAN,8072401390,,male,2025-11-03,,3 Months,3500,1500,1800,2025-11-03,2026-02-02,Expired,1,1,1,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",2000,11,Nov
+185.0,MIDHHUN ,8754927613,21.0,male,2025-11-04,,Students 3 month plan,2300,2300,0,2026-05-04,2026-08-03,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+186.0,SanthanaRaj,9597733683,,male,2025-11-07,,3 Months,3500,3500,0,2025-12-07,2026-03-06,Expired,1,0,0,89,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,12,Dec
+187.0,Ajay,9361700995,,male,2025-11-10,,Students plan ,850,850,0,2026-02-09,2026-03-08,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+188.0,P DEEPAK,8807901394,21.0,male,2025-11-11,,Students 3 month plan,3199,3199,0,2026-08-10,2026-11-09,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+189.0,Santhosh kumar,9952015216,,male,2025-11-12,,Students plan ,850,850,0,2025-11-12,2025-12-11,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,11,Nov
+190.0,Sachu S.Kumar ,7034988236,,male,2025-11-13,,Students plan ,1200,1200,0,2026-08-28,2026-09-27,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+191.0,Murali,9940077265,,male,2025-11-13,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-08,2027-09-07,Active,0,0,0,426,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+192.0,Vibin marucknath,9940543027,,male,2025-11-14,,Students 3 month plan,2300,2300,0,2026-06-13,2026-09-12,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+193.0,AMANDA RANZO,7306860165,23.0,female,2025-11-19,,Students 3 month plan,2300,2300,0,2026-07-10,2026-10-09,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+194.0,G S DHANITHA,8848102090,22.0,male,2025-11-19,,Students 3 month plan,2300,2300,0,2026-05-19,2026-09-22,Active,0,0,0,126,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+195.0,BARANIDHARAN ,9600122997,25.0,male,2025-11-19,,3 Months,3500,1000,2300,2025-11-19,2026-02-18,Expired,1,1,1,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",2500,11,Nov
+196.0,Poojaa sruthi,8825892928,,female,2025-11-21,,Students plan ,1200,1200,0,2026-09-01,2026-09-30,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+197.0,Naveen kumar ,9361158626,,male,2025-11-21,,Students 3 month plan,2300,2300,0,2026-06-05,2026-09-04,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+198.0,Varun prasad ,8838065362,,male,2025-11-21,,Students plan ,850,850,0,2025-11-21,2025-12-20,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,11,Nov
+199.0,CIBI S,7339288962,,male,2025-11-22,,Students 3 month plan,3199,3199,0,2026-09-07,2026-12-06,Active,0,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,9,Sep
+200.0,RAJANI,6381445119,,female,2025-11-24,,Personal training 1 month (24 classes),5999,5999,0,2026-07-01,2026-07-31,Expired,1,0,0,30,1 Month,Personal Training,"Mid-High (₹3,501-₹7,500)",0,7,Jul
+201.0,V P BHARANI SANKAR V.P ,8111058936,,male,2025-11-26,,Students plan ,1200,1200,0,2026-08-26,2026-09-25,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+202.0,Punitha,9443916174,24.0,female,2025-11-26,,1 Month ,1500,1500,0,2026-08-05,2026-09-04,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+203.0,Baveen.M,9677745750,,male,2025-11-26,,1 Month ,1500,1500,0,2026-08-05,2026-09-04,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+204.0,J JUVENA ,9360847789,24.0,female,2025-11-27,,3 Months,3500,1500,2000,2026-09-04,2026-12-03,Active,0,1,1,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",2000,9,Sep
+205.0,Gomesh ,9361897191,,male,2025-12-01,,Students plan ,850,850,0,2025-12-01,2025-12-31,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,12,Dec
+206.0,Saabari manikandan,8015008604,,male,2025-12-01,,School Students and College students offer one year,7333,7333,0,2026-01-01,2026-12-31,Active,0,0,0,364,1 Year,Student,"Mid-High (₹3,501-₹7,500)",0,1,Jan
+207.0,Yuvaraj,8667034996,,male,2025-12-01,,Students 3 month plan,2300,2300,0,2026-04-01,2026-07-10,Expired,1,0,0,100,3 Months,Student,"Medium (₹1,501-₹3,500)",0,4,Apr
+208.0,Rahul.K,6383003556,,male,2025-12-01,,Students 3 month plan,3199,3199,0,2026-08-18,2026-11-17,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+209.0,Bharath kalyan,8098357238,,male,2025-12-01,,Students plan ,1200,1200,0,2026-08-14,2026-09-13,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+210.0,NARASIMMAN,9715609037,21.0,male,2025-12-01,,Students plan ,850,850,0,2026-05-01,2026-05-31,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+211.0,Sivanesh,9443077402,,male,2025-12-02,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-21,2027-09-20,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+212.0,Shubangi Agarwal ,9361946829,,female,2025-12-04,,STUDENTS 6 MONTH PLAN,5299,5299,0,2026-08-10,2027-02-09,Active,0,0,0,183,6 Months,Student,"Mid-High (₹3,501-₹7,500)",0,8,Aug
+213.0,AISHWARAYA,7358605777,25.0,female,2025-12-07,,Personal training 2 Months (48 classes),9999,9499,0,2026-08-12,2026-10-11,Active,0,0,0,60,2 Months,Personal Training,"High (>₹7,500)",500,8,Aug
+214.0,Krisnaraj,9043570347,,male,2025-12-10,,3 Months,3500,3500,0,2026-08-29,2026-11-28,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,8,Aug
+215.0,Muhammed sufiyan.B,9496809375,,male,2025-12-10,,Students plan ,1200,1200,0,2026-09-04,2026-10-03,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+216.0,NAVEEN KUMAR,9150618137,24.0,male,2025-12-11,,1 Month ,1500,1500,0,2025-12-11,2026-01-10,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,12,Dec
+217.0,Harikaran sudhan,8825555192,,male,2025-12-13,,Students plan ,850,850,0,2026-01-13,2026-02-12,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,1,Jan
+218.0,Kevin kumar,9884930344,,male,2025-12-15,,Students plan ,850,850,0,2025-12-15,2026-01-14,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,12,Dec
+219.0,Sai easwarn,9840954955,,male,2025-12-18,,Students 3 month plan,2300,2300,0,2026-06-18,2026-09-17,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+220.0,GANESH S,8148482362,19.0,male,2025-12-22,,Students plan ,850,850,0,2026-06-03,2026-07-02,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+2.21,M S YUUANSHANKAV ,6385745779,20.0,male,2025-12-25,,School Students and College students offer one year,7333,7333,0,2025-12-23,2026-12-22,Active,0,0,0,364,1 Year,Student,"Mid-High (₹3,501-₹7,500)",0,12,Dec
+222.0,SURYANARAYANAN G,9940147944,34.0,male,2025-12-25,,New gym memberships 1 one year,7999,7500,0,2025-12-31,2026-12-30,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",499,12,Dec
+223.0,Milon Roy ,9707507105,,male,2025-12-26,,New gym memberships 1 one year,7999,7999,0,2025-12-26,2026-12-25,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,12,Dec
+224.0,Rahman,7418780447,,male,2025-12-26,,Students plan ,1200,1200,0,2026-07-27,2026-08-26,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,7,Jul
+225.0,Surya,6379337835,,male,2025-12-26,,3 Months,3500,3500,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+226.0,Vijaykumar ,8681010291,,male,2025-12-27,,New gym memberships 1 one year,7999,7999,0,2025-12-27,2026-12-26,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,12,Dec
+227.0,Akrit mandi,6000899411,,male,2025-12-27,,New gym memberships 1 one year,7999,7999,0,2025-12-27,2026-12-26,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,12,Dec
+228.0,Emmanuel derek & mercy,8667835993,,male,2025-12-31,,Family & couple package (1 month),2300,2300,0,2026-09-01,2026-09-30,Active,0,0,0,29,1 Month,Family/Couple,"Medium (₹1,501-₹3,500)",0,9,Sep
+229.0,Aglian,6380997371,,male,2025-12-31,,New gym memberships 1 one year,7999,7999,0,2026-01-01,2026-12-31,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+230.0,Bharath puri goswami,9176552917,,male,2025-12-31,,Family pack offer (one year),17000,17000,0,2026-01-01,2026-12-31,Active,0,0,0,364,1 Year,Family/Couple,"High (>₹7,500)",0,1,Jan
+231.0,Thaniya ,9488273414,,male,2026-01-01,,Students 3 month plan,2300,2300,0,2026-01-01,2026-03-31,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+232.0,Vasundhara,9003483436,,male,2026-01-01,,Students 3 month plan,2300,2300,0,2026-01-01,2026-03-31,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+233.0,Indumathi ,9360534627,,male,2026-01-01,,Students 3 month plan,2300,2300,0,2026-01-01,2026-03-31,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+234.0,Gokulnath,9940673522,,male,2026-01-01,,Students plan ,850,850,0,2026-03-01,2026-03-31,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+235.0,Dinesh Kumar ,9566097552,,male,2026-01-02,,Students 3 month plan,2300,2300,0,2026-01-02,2026-04-01,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+236.0,Vijay,7397246988,,male,2026-01-02,,1 Month ,1500,1500,0,2026-02-02,2026-03-01,Expired,1,0,0,27,1 Month,Regular,"Low (≤₹1,500)",0,2,Feb
+237.0,Aravinth,9789048683,,male,2026-01-02,,School Students and College students offer one year,7333,7333,0,2026-01-02,2027-01-01,Active,0,0,0,364,1 Year,Student,"Mid-High (₹3,501-₹7,500)",0,1,Jan
+238.0,Rupain G.Thomes,9495895871,,male,2026-01-03,,Students plan ,1200,1200,0,2026-08-03,2026-09-02,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+239.0,Sahran,8098612343,,male,2026-01-03,,Students plan ,1200,1200,0,2026-09-03,2026-10-02,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+240.0,Dhandayvdhapani,9940667771,,male,2026-01-03,,New gym memberships 1 one year,7999,7999,0,2026-01-03,2027-01-02,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+241.0,THISAI KUMARI,9840886577,,female,2026-01-03,,Personal training 2 Months (48 classes),9999,9999,0,2026-08-01,2026-09-30,Active,0,0,0,60,2 Months,Personal Training,"High (>₹7,500)",0,8,Aug
+242.0,Saranya ,8754504807,,female,2026-01-05,,New gym memberships 1 one year,7999,7999,0,2026-01-05,2027-01-04,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+243.0,E Arunprakash,70982774831,,male,2026-01-05,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+244.0,Gladwin daniel ,9345952044,,male,2026-01-05,,School Students and College students offer one year,7333,7333,0,2026-01-05,2027-01-04,Active,0,0,0,364,1 Year,Student,"Mid-High (₹3,501-₹7,500)",0,1,Jan
+245.0,V Ashok kumar ,8270915433,,female,2026-01-05,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-01,2027-08-31,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+246.0,Dibose fernando,9789644624,,male,2026-01-06,,New gym memberships 1 one year,7999,7999,0,2026-01-06,2027-01-05,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+247.0,Leo infant,9841438929,,male,2026-01-06,,3 Months,3500,3500,0,2026-01-06,2026-04-05,Expired,1,0,0,89,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,1,Jan
+248.0,SURIYAKUMAR,9551998586,,male,2026-01-07,,Personal training 3 Months (72 classes),15999,15999,0,2026-08-01,2026-10-31,Active,0,0,0,91,3 Months,Personal Training,"High (>₹7,500)",0,8,Aug
+249.0,Ajay,9361543798,,male,2026-01-09,,Students 3 month plan,3199,3199,0,2026-09-01,2026-11-30,Active,0,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,9,Sep
+250.0,Bharani dharan,8946048957,,male,2026-01-09,,New gym memberships 1 one year,7999,7999,0,2026-01-09,2027-01-08,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+251.0,Perumal,9884569450,,male,2026-01-09,,Anniversary pack 1 year +1month,7999,4000,3999,2026-08-29,2027-09-28,Active,0,1,1,395,1 Year,Promotional/Offer,"High (>₹7,500)",3999,8,Aug
+252.0,Venkatesh ,7548878734,,male,2026-01-10,,New gym memberships 1 one year,7999,7999,0,2026-01-10,2027-01-09,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+253.0,Ramya,9994379966,,female,2026-01-14,,1 Month ,1500,1500,0,2026-06-25,2026-07-24,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,6,Jun
+254.0,Prasanth,9994202058,,male,2026-01-14,,Gym Old membership ,7666,7666,0,2026-01-14,2027-01-13,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,1,Jan
+255.0,Samuel,7200527479,,male,2026-01-19,,Students plan ,850,850,0,2026-04-19,2026-05-18,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,4,Apr
+256.0,JAI AKASH,6383726659,18.0,male,2026-01-19,,Students 3 month plan,2300,2300,0,2026-01-19,2026-04-18,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+257.0,A SARATHY ,9944193969,19.0,male,2026-01-19,,Students plan ,850,850,0,2026-02-19,2026-03-18,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+258.0,Ramkumar,6383391370,,male,2026-01-19,,Students plan ,850,850,0,2026-01-19,2026-02-18,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,1,Jan
+259.0,G THIRUMALAI,9342766783,20.0,male,2026-01-22,,Students plan ,1200,850,0,2026-07-21,2026-08-20,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",350,7,Jul
+260.0,S BALAJI,9791632005,20.0,male,2026-01-22,,Students plan ,1200,1000,0,2026-08-21,2026-09-20,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",200,8,Aug
+261.0,Parthiban,9345966048,,male,2026-01-26,,1 Month ,1500,1500,0,2026-08-29,2026-09-28,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+262.0,H SANJAY,7305837702,,male,2026-01-26,,Students plan ,1200,1200,0,2026-08-22,2026-09-21,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+263.0,K MADHAN KUMAR,9710529025,,male,2026-01-26,,Students plan ,850,850,0,2026-02-26,2026-03-25,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+264.0,K KARTHICK,9003310596,31.0,male,2026-01-26,,New gym memberships 1 one year,7999,7999,0,2026-01-23,2027-01-22,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,1,Jan
+265.0,M kethiswaran,9042491558,,male,2026-01-27,,1 Month ,1500,1500,0,2026-08-19,2026-09-18,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+266.0,NISHSANTH E,7092728409,25.0,male,2026-01-27,,Students plan ,850,850,0,2026-04-08,2026-05-07,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,4,Apr
+267.0,NIVEDHIKA,9080967897,22.0,female,2026-01-27,,Students plan ,850,850,0,2026-01-27,2026-02-26,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,1,Jan
+268.0,A. LOGESH,7092813183,24.0,male,2026-01-27,,Students 3 month plan,2300,2300,0,2026-01-27,2026-04-30,Expired,1,0,0,93,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+269.0,ARIVALAN P,9629807461,22.0,male,2026-01-27,,Students 3 month plan,2300,2300,0,2026-01-28,2026-04-27,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+270.0,SASI RAM ,9940425995,23.0,male,2026-01-28,,Students 3 month plan,2300,2300,0,2026-01-28,2026-04-27,Expired,1,0,0,89,3 Months,Student,"Medium (₹1,501-₹3,500)",0,1,Jan
+271.0,JESLIN ALEX,9566636339,26.0,female,2026-01-28,,Personal training 2 Months (48 classes),9999,9999,0,2026-05-05,2026-07-04,Expired,1,0,0,60,2 Months,Personal Training,"High (>₹7,500)",0,5,May
+272.0,Vikensh,9361331051,,male,2026-01-29,,1 Month ,1500,1500,0,2026-08-29,2026-09-28,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+273.0,Surya Prakash ,9884272670,,male,2026-01-31,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-04,2027-08-03,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+274.0,Abinesh,7604857532,,male,2026-02-01,,Students plan ,850,850,0,2026-02-01,2026-02-28,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+275.0,A AASATH,8870588429,21.0,male,2026-02-01,,Students plan ,850,850,0,2026-05-11,2026-06-10,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+276.0,AJMAL AHATH,9360201862,16.0,male,2026-02-01,,Students plan ,850,850,0,2026-05-14,2026-06-13,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+277.0,Manoj Kumar ,9043307991,,male,2026-02-02,,Students plan ,1200,1000,0,2026-08-26,2026-09-25,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",200,8,Aug
+278.0,Prajan,7200176426,,male,2026-02-02,,Students plan ,850,850,0,2026-06-08,2026-07-07,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+279.0,V.I.Hemashree,9443119821,23.0,female,2026-02-02,,Students 3 month plan,3199,3199,0,2026-09-03,2026-12-02,Active,0,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,9,Sep
+280.0,Soundarya ,7339083216,,female,2026-02-02,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+281.0,C ABISHEK ,9094142121,20.0,male,2026-02-02,,Students plan ,850,850,0,2026-02-02,2026-03-01,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+282.0,Bhavatharak ,9176518034,,male,2026-02-03,,Students plan ,850,850,0,2026-03-17,2026-04-16,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+283.0,Gokul ,7305246496,,male,2026-02-03,,Students plan ,850,850,0,2026-03-17,2026-04-16,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+284.0,BHARAT SINGH & MEENU,7299008786,46.0,male,2026-02-03,,Family & couple package (3 Months),5500,5500,0,2026-02-03,2027-02-10,Active,0,0,0,372,3 Months,Family/Couple,"Mid-High (₹3,501-₹7,500)",0,2,Feb
+285.0,PRADHEESH A,9789610831,20.0,male,2026-02-03,,Students plan ,850,850,0,2026-03-03,2026-04-02,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+286.0,V GOPINATH,7338756645,22.0,male,2026-02-03,,Students 3 month plan,2300,2300,0,2026-02-03,2026-05-02,Expired,1,0,0,88,3 Months,Student,"Medium (₹1,501-₹3,500)",0,2,Feb
+287.0,Ezhilan ,6381515100,,male,2026-02-04,,Students plan ,850,850,0,2026-02-04,2026-03-03,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+288.0,Yugendhiran,9940261628,,male,2026-02-05,,Students plan ,1200,1200,0,2026-08-05,2026-09-04,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+289.0,Aravindhan,7200115341,,male,2026-02-05,,Students plan ,850,850,0,2026-02-05,2026-03-04,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+290.0,Nalini,9003143685,,female,2026-02-07,,Personal training 1 month (24 classes),5999,5999,0,2026-09-11,2026-10-10,Active,0,0,0,29,1 Month,Personal Training,"Mid-High (₹3,501-₹7,500)",0,9,Sep
+291.0,Sanjai,9042473761,,male,2026-02-09,,Students 3 month plan,2300,2300,0,2026-02-09,2026-05-08,Expired,1,0,0,88,3 Months,Student,"Medium (₹1,501-₹3,500)",0,2,Feb
+292.0,Velmurugan ,8667695864,,male,2026-02-09,,1 Month ,1500,1300,0,2026-08-09,2026-09-08,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",200,8,Aug
+293.0,Raghuram A,9662952769,,male,2026-02-09,,Personal training 1 month (24 classes),5999,5999,0,2026-08-10,2026-09-09,Active,0,0,0,30,1 Month,Personal Training,"Mid-High (₹3,501-₹7,500)",0,8,Aug
+294.0,A SRIKAVI ,9677960247,21.0,female,2026-02-10,,Students plan ,850,850,0,2026-02-10,2026-03-09,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+295.0,Ganesh prasath R.V,6380783478,,male,2026-02-10,,Students 3 month plan,3199,3199,0,2026-08-18,2026-11-17,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,8,Aug
+296.0,Hariharan S,6380741016,25.0,male,2026-02-11,,3 Months,3500,3500,0,2026-08-18,2026-11-17,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,8,Aug
+297.0,M Ravi,9840581545,,male,2026-02-12,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-05,2027-09-04,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+298.0,Prem Kumar ,9360212806,,male,2026-02-13,,Students 3 month plan,2300,2300,0,2026-02-13,2026-05-12,Expired,1,0,0,88,3 Months,Student,"Medium (₹1,501-₹3,500)",0,2,Feb
+299.0,P  MARTIN,9841533229,14.0,male,2026-02-13,,Students plan ,850,850,0,2026-02-13,2026-03-12,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+300.0,S KAVIYARASU,9342871128,25.0,male,2026-02-14,,1 Month ,1500,1500,0,2026-04-14,2026-05-13,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+301.0,S.S.Balaji,6383101708,,male,2026-02-16,,Students plan ,850,850,0,2026-02-16,2026-03-15,Expired,1,0,0,27,Other,Student,"Low (≤₹1,500)",0,2,Feb
+302.0,Alfahad,8778910584,,male,2026-02-16,,Students plan ,850,850,0,2026-03-30,2026-04-29,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+303.0,FMRAN,807258994,27.0,male,2026-02-16,,Students plan ,1200,1200,0,2026-09-07,2026-10-06,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+304.0,MALAVICA SETHJ,9789374864,27.0,female,2026-02-16,,Students plan ,850,850,0,2026-03-16,2026-04-15,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+305.0,KEERTHI RAJA S,8056127584,25.0,male,2026-02-16,,Students plan ,850,850,0,2026-03-16,2026-04-15,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+306.0,Nandhini,9597001778,,female,2026-02-18,,1 Month ,1500,1500,0,2026-04-26,2026-05-25,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+307.0,Ravinth ,7200672349,,male,2026-02-18,,1 Month ,1500,1500,0,2026-02-18,2026-03-17,Expired,1,0,0,27,1 Month,Regular,"Low (≤₹1,500)",0,2,Feb
+308.0,Anenassh,9176819960,,male,2026-02-21,,Students 3 month plan,2300,2300,0,2026-02-21,2026-05-20,Expired,1,0,0,88,3 Months,Student,"Medium (₹1,501-₹3,500)",0,2,Feb
+309.0,Rithu iyer ,9940616670,,female,2026-02-21,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-02,2027-08-01,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+310.0,Pari vallal,6381476952,,male,2026-02-21,,Students 3 month plan,3199,3199,0,2026-07-21,2026-10-20,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+311.0,Kishor,7305869814,,male,2026-02-23,,1 Month ,1500,1200,0,2026-08-07,2026-09-06,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",300,8,Aug
+312.0,V SANKAR KUMAR ,6381195594,29.0,male,2026-02-23,,3 Months,3500,3500,0,2026-07-23,2026-10-22,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+313.0,B.nandhagobalan,9629325659,,male,2026-02-23,,1 Month ,1500,1500,0,2026-09-04,2026-10-03,Active,0,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,9,Sep
+314.0,Jeffrin alex,7845655028,,female,2026-02-28,,Students plan ,850,850,0,2026-06-29,2026-07-28,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+315.0,GUNASEKAR,9884838722,43.0,male,2026-03-02,,3 Months,3500,3500,0,2026-03-01,2026-05-31,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,3,Mar
+316.0,V SANJAI,7305906373,23.0,male,2026-03-02,,1 Month ,1500,1500,0,2026-08-03,2026-09-02,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+317.0,M BRINDHA,7200003122,34.0,female,2026-03-02,,3 Months,3500,3500,0,2026-03-02,2026-06-01,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,3,Mar
+318.0,B ASHWIN ,7845779399,21.0,male,2026-03-02,,Students plan ,850,850,0,2026-05-24,2026-06-23,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+319.0,S JESUMANI,6374676917,25.0,male,2026-03-03,,1 Month ,1500,1500,0,2026-03-03,2026-04-02,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+320.0,BENAIAH JOEL A ,9488320982,,male,2026-03-04,,1 Month ,1500,1500,0,2026-03-04,2026-04-03,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+321.0,Arjun,6374583586,,male,2026-03-06,,1 Month ,1500,1500,0,2026-03-06,2026-04-05,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+322.0,Elavarasan ,9791538882,,male,2026-03-07,,Gym Old membership ,7666,7666,0,2026-05-07,2027-05-06,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,5,May
+323.0,Sanjay ,9176097277,,male,2026-03-09,,Students 3 month plan,2300,2300,0,2026-06-09,2026-09-08,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+324.0,Vignesh waran,7824029925,,male,2026-03-09,,3 Months,3500,2500,0,2026-03-09,2026-06-08,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",1000,3,Mar
+325.0,G LINGESHWARAN ,8428541045,24.0,male,2026-03-09,,1 Month ,1500,1500,0,2026-05-09,2026-06-08,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,5,May
+326.0,Stephen raj,9551167468,,male,2026-03-11,,3 Months,3500,3500,0,2026-03-11,2026-06-10,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,3,Mar
+327.0,Dr santhiya ,63798998773,,female,2026-03-11,,Students plan ,1200,1200,0,2026-09-01,2026-09-30,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+328.0,Priya,9787234323,,female,2026-03-12,,1 Month ,1500,1500,0,2026-04-15,2026-05-14,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+329.0,V magesh ,9941559636,,male,2026-03-16,,1 Month ,1500,1500,0,2026-08-21,2026-09-20,Active,0,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,8,Aug
+330.0,Bharath,8610602467,,male,2026-03-16,,1 Month ,1500,1500,0,2026-04-16,2026-05-15,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+331.0,R DINESH Ram,9940759903,,male,2026-03-16,,Students plan ,850,850,0,2026-06-17,2026-07-16,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+332.0,Ardhra.S,7034214873,,female,2026-03-17,,Students plan ,850,850,0,2026-03-17,2026-04-16,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,3,Mar
+333.0,Govinda raj,7305489754,,male,2026-03-18,,3 Months,3500,3500,0,2026-03-18,2026-06-17,Expired,1,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,3,Mar
+334.0,MURUGESAN ,7667482684,,male,2026-03-19,,One Year ,9999,8500,0,2026-03-19,2027-03-18,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",1499,3,Mar
+335.0,M Vijayakumar ,9940673998,,male,2026-03-20,,6 Months,6000,3000,3000,2026-09-05,2027-03-04,Active,0,1,1,180,6 Months,Regular,"Mid-High (₹3,501-₹7,500)",3000,9,Sep
+336.0,Pavithran,8610591197,,male,2026-03-24,,Summer offer 3 month,3099,3099,0,2026-04-24,2026-07-23,Expired,1,0,0,90,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,4,Apr
+337.0,Swathi ,9655050769,,female,2026-03-25,,Anniversary pack 1 year +1month,7999,7999,0,2026-06-25,2027-07-24,Active,0,0,0,394,1 Year,Promotional/Offer,"High (>₹7,500)",0,6,Jun
+338.0,Chinthaamani,9600822503,,female,2026-03-25,,Anniversary pack 1 year +1month,7999,7999,0,2026-06-25,2027-07-24,Active,0,0,0,394,1 Year,Promotional/Offer,"High (>₹7,500)",0,6,Jun
+339.0,Ramprasad saravanan,7010567304,,male,2026-03-30,,1 Month ,1500,1500,0,2026-03-30,2026-04-29,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+340.0,Jagadeesh ,8015158082,,male,2026-03-30,,1 Month ,1500,1500,0,2026-03-30,2026-04-29,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+341.0,Sibe ,8122229228,,male,2026-03-30,,1 Month ,1500,1500,0,2026-03-30,2026-04-29,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,3,Mar
+342.0,MADHAN KUMAR,7401379027,32.0,male,2026-03-31,,3 Months,3500,3500,0,2026-03-31,2026-06-29,Expired,1,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,3,Mar
+343.0,A VIJNESH,7358433140,20.0,male,2026-04-01,,Students 3 month plan,2300,2300,0,2026-07-01,2026-09-30,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+344.0,RISHWANTH,9442919415,18.0,male,2026-04-02,,Students plan ,850,850,0,2026-04-03,2026-05-02,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,4,Apr
+345.0,BANTI,7338821057,,male,2026-04-03,,1 Month ,1500,1500,0,2026-04-03,2026-05-02,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+346.0,RAGUL KANNAN,9629393433,27.0,male,2026-04-05,,3 Months,3500,3500,0,2026-07-05,2026-10-04,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+347.0,JAGATHEESWARAN,8110978838,0.0,male,2026-04-06,,3 Months,3500,3500,0,2026-04-06,2026-07-05,Expired,1,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,4,Apr
+348.0,M SNEGA,9159914092,26.0,female,2026-04-06,,1 Month ,1500,1500,0,2026-04-07,2026-05-06,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+349.0,P VISHAL ,9360048565,23.0,male,2026-04-06,,Students 3 month plan,2300,2300,0,2026-05-06,2026-08-05,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+350.0,SRIRAM.G,9042261552,27.0,male,2026-04-07,,6 Months,6000,0,6000,2026-04-07,2026-10-06,Active,0,1,0,182,6 Months,Regular,"Mid-High (₹3,501-₹7,500)",6000,4,Apr
+351.0,Sandeep ,9080958352,,male,2026-04-11,,1 Month ,1500,1500,0,2026-04-11,2026-05-10,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+352.0,POOJA S.B ,9361622505,24.0,female,2026-04-11,,Students 3 month plan,2300,2300,0,2026-07-13,2026-10-12,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+353.0,GOPIKA,7806818183,24.0,female,2026-04-11,,Summer offer students (3 month ),2300,2300,0,2026-07-13,2026-10-12,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+354.0,ABY PRASAD,9902859620,0.0,female,2026-04-11,,One Year ,9999,9999,0,2026-04-11,2027-04-10,Active,0,0,0,364,1 Year,Regular,"High (>₹7,500)",0,4,Apr
+355.0,sujith,9840847939,,male,2026-04-14,,Students plan ,850,850,0,2026-06-14,2026-07-13,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+356.0,Mukesh,7845305801,,male,2026-04-15,,Students plan ,850,850,0,2026-05-25,2026-06-24,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+357.0,Santhosh ,7397421183,,male,2026-04-15,,Students plan ,1200,1200,0,2026-08-10,2026-09-09,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+358.0,Bhuvanesh,8072796398,,male,2026-04-15,,School Student 1 month ,850,850,0,2026-07-15,2026-08-14,Expired,1,0,0,30,1 Month,Student,"Low (≤₹1,500)",0,7,Jul
+359.0,Varshinee,8438181157,,female,2026-04-15,,Students 3 month plan,2300,2300,0,2026-07-03,2026-10-02,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,7,Jul
+360.0,Sathiya pallavi,8838583726,,female,2026-04-17,,3 Months,3500,3500,0,2026-07-10,2026-10-09,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,7,Jul
+361.0,Kaaviya,9884876909,,male,2026-04-20,,1 Month ,1500,1500,0,2026-04-20,2026-05-19,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+362.0,Dilip kumar ,8754916290,,male,2026-04-21,,Students 3 month plan,2300,2300,0,2026-04-21,2026-07-20,Expired,1,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,4,Apr
+363.0,Kavita.M,9840200899,,female,2026-04-24,,3 Months,3500,3500,0,2026-04-24,2026-07-23,Expired,1,0,0,90,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,4,Apr
+364.0,Sayush,7305243099,,male,2026-04-24,,Students 3 month plan,2300,2300,0,2026-04-24,2026-07-23,Expired,1,0,0,90,3 Months,Student,"Medium (₹1,501-₹3,500)",0,4,Apr
+365.0,SUDHAKAR M ,8939527774,44.0,male,2026-04-25,,Personal training 3 Months (72 classes),15999,15999,0,2026-04-25,2026-07-24,Expired,1,0,0,90,3 Months,Personal Training,"High (>₹7,500)",0,4,Apr
+366.0,Sabareesh.k,9123539668,,male,2026-04-27,,Students plan ,850,850,0,2026-04-27,2026-05-26,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,4,Apr
+367.0,Sathish,7401122553,,male,2026-04-27,,6 Months,6000,6000,0,2026-04-27,2026-10-26,Active,0,0,0,182,6 Months,Regular,"Mid-High (₹3,501-₹7,500)",0,4,Apr
+368.0,Siva ,7708708687,,male,2026-04-27,,6 Months,6000,6000,0,2026-04-27,2026-10-26,Active,0,0,0,182,6 Months,Regular,"Mid-High (₹3,501-₹7,500)",0,4,Apr
+369.0,PRADEEPA,7010130843,22.0,female,2026-04-28,,1 Month ,1500,1500,0,2026-04-28,2026-05-27,Expired,1,0,0,29,1 Month,Regular,"Low (≤₹1,500)",0,4,Apr
+370.0,RUBA DARSHAN,8248282103,18.0,male,2026-04-28,,Personal training 1 month (24 classes),5999,5999,0,2026-08-06,2026-09-05,Expired,1,0,0,30,1 Month,Personal Training,"Mid-High (₹3,501-₹7,500)",0,8,Aug
+371.0,Sangeeta ,6381349681,,female,2026-05-01,,Summer offer 3 month,3099,0,3099,2026-05-01,2026-07-31,Expired,1,1,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",3099,5,May
+372.0,Shona,8248224624,,female,2026-05-02,,Students plan ,1200,1200,0,2026-07-17,2026-08-16,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,7,Jul
+373.0,Meenasulochani,8667301656,,female,2026-05-02,,1 Month ,1500,1500,0,2026-05-02,2026-06-01,Expired,1,0,0,30,1 Month,Regular,"Low (≤₹1,500)",0,5,May
+374.0,Ravi kumar & Mohanavalli,9003221501,,male,2026-05-04,,Family & couple package (1 month),2300,2300,0,2026-06-04,2026-07-03,Expired,1,0,0,29,1 Month,Family/Couple,"Medium (₹1,501-₹3,500)",0,6,Jun
+375.0,PRAVEEEN,8681820179,19.0,male,2026-05-05,,Students 3 month plan,2300,2300,0,2026-05-05,2026-08-04,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+376.0,Aparna,8086564239,0.0,female,2026-05-05,,Summer offer 3 month,3099,3099,0,2026-05-05,2026-08-04,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+377.0,Dr shankar,9003880853,,male,2026-05-05,,Students plan ,1200,1200,0,2026-09-01,2026-09-30,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+378.0,S JONATH,7305377185,18.0,male,2026-05-06,,Students plan ,1200,1200,0,2026-08-09,2026-09-08,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+379.0,S. DEEPAK,8248983054,0.0,male,2026-05-09,,Summer offer 3 month,3099,3099,0,2026-05-09,2026-08-08,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+380.0,HARISHITHA,9486152935,17.0,female,2026-05-09,,Students plan ,850,850,0,2026-05-09,2026-06-08,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+381.0,D ABINASH,8072832258,28.0,male,2026-05-11,,Gym Old membership ,7666,7666,0,2026-05-11,2027-05-10,Active,0,0,0,364,Other,Regular,"High (>₹7,500)",0,5,May
+382.0,MOHAMMED ROSHAN,7593021635,0.0,male,2026-05-11,,Students 3 month plan,2300,2300,0,2026-05-11,2026-08-10,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+383.0,M harish,66383462311,,male,2026-05-11,,Students plan ,1200,1200,0,2026-09-02,2026-10-01,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+384.0,NAVEEN .S ,9995913461,0.0,male,2026-05-11,,Students plan ,1200,1200,0,2026-08-11,2026-09-10,Active,0,0,0,30,Other,Student,"Low (≤₹1,500)",0,8,Aug
+385.0,D.SANTHOSE,9840222568,,male,2026-05-11,,Students plan ,850,850,0,2026-06-11,2026-07-10,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+386.0,MURUGAN,7401185012,0.0,male,2026-05-11,,Anniversary pack 1 year +1month,7999,7999,0,2026-08-11,2027-09-10,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,8,Aug
+387.0,PREAMKUMAR,995297850,18.0,male,2026-05-11,,Summer offer 3 month,3099,3099,0,2026-05-11,2026-08-10,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+388.0,R SANJAY,9003308754,17.0,male,2026-05-11,,Students plan ,850,850,0,2026-06-11,2026-07-10,Expired,1,0,0,29,Other,Student,"Low (≤₹1,500)",0,6,Jun
+389.0,ABHISHEK SN,7010547010,22.0,male,2026-05-12,,Students 3 month plan,2300,2300,0,2026-05-12,2026-08-11,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+390.0,M JAMUNA,9489378368,30.0,female,2026-05-13,,Summer offer 3 month,3099,3099,0,2026-05-13,2026-08-12,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+391.0,SREELAKSHMI,7358330106,27.0,female,2026-05-13,,3 Months,3500,3500,0,2026-08-18,2026-11-17,Active,0,0,0,91,3 Months,Regular,"Medium (₹1,501-₹3,500)",0,8,Aug
+392.0,A ABINESH,8939430723,17.0,male,2026-05-13,,Students 3 month plan,2300,2300,0,2026-05-08,2026-08-07,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May
+393.0,Hariharan S,9080302094,,male,2026-05-14,,Anniversary pack 1 year +1month,7999,7999,0,2026-07-13,2027-08-12,Active,0,0,0,395,1 Year,Promotional/Offer,"High (>₹7,500)",0,7,Jul
+394.0,Deenadhayalan,8428540017,,male,2026-05-15,,Summer offer 3 month,3099,3099,0,2026-05-15,2026-08-14,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+395.0,Saktivel .s,801589368,,male,2026-05-18,,Students plan ,850,850,0,2026-05-18,2026-06-17,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+396.0,Vishal ,6382015613,,male,2026-05-19,,Students plan ,850,850,0,2026-05-19,2026-06-18,Expired,1,0,0,30,Other,Student,"Low (≤₹1,500)",0,5,May
+397.0,Suresh kumar ,6374327681,,male,2026-05-19,,Students 3 month plan,2300,2300,0,2026-06-26,2026-09-25,Active,0,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,6,Jun
+398.0,S SRAJUDEEN,9790864112,47.0,male,2026-05-21,,Summer offer 3 month,3099,3099,0,2026-05-21,2026-08-20,Expired,1,0,0,91,3 Months,Promotional/Offer,"Medium (₹1,501-₹3,500)",0,5,May
+399.0,Dr gaveya,9500347468,,female,2026-05-26,,Students plan ,1200,1200,0,2026-09-01,2026-09-30,Active,0,0,0,29,Other,Student,"Low (≤₹1,500)",0,9,Sep
+400.0,Daniel,8939739029,,male,2026-05-26,,Summer offer students (3 month ),2300,2300,0,2026-05-26,2026-08-25,Expired,1,0,0,91,3 Months,Student,"Medium (₹1,501-₹3,500)",0,5,May

@@ -1,0 +1,8 @@
+Test,Variable,Comparison,Group 1 Mean,Group 2 Mean,Test Statistic,p-value,Significant (α=0.05),Interpretation
+Independent T-Test,Plan Amount,Churned vs Active,"₹2,755","₹4,697",t = -4.6358,0.000005,Yes,Churned members pay significantly less
+Independent T-Test,Membership Duration (Days),Churned vs Active,64 days,177 days,t = -9.4390,0.000000,Yes,Churned members have shorter memberships
+Independent T-Test,Payment Gap,Churned vs Active,₹336,₹201,t = 1.0780,0.281914,No,No significant payment gap difference
+One-Way ANOVA (F-Test),Plan Amount,Across Plan Duration Categories,-,-,F = 57.9122,0.000000,Yes,Plan amounts differ significantly across durations
+One-Way ANOVA (F-Test),Plan Amount,Across Plan Types (Student/Regular/PT/Family/Promo),-,-,F = 54.6957,0.000000,Yes,Plan amounts differ significantly across plan types
+Chi-Square Test,Churn Status,Gender (Male vs Female),Male churn: 54.3%,Female churn: 50.8%,χ² = 0.1527,0.695972,No,Churn is independent of gender
+Chi-Square Test,Churn Status,Plan Duration Category,-,-,χ² = 60.1633,0.000000,Yes,Churn is significantly associated with plan duration

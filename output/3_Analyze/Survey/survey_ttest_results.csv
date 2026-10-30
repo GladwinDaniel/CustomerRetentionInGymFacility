@@ -1,0 +1,7 @@
+Variable,Renewer Mean,Non-Renewer Mean,Difference,t-statistic,p-value,Significant (alpha=0.05),Interpretation
+Equipment Satisfaction,4.5,3.9,0.6,2.8271,0.011639,Yes,Renewers rate Equipment Satisfaction significantly higher
+Hygiene Satisfaction,4.825,4.6,0.225,0.9694,0.353366,No,No significant difference in Hygiene Satisfaction
+Environment / Ambience Rating,4.425,4.4,0.025,0.1153,0.909161,No,No significant difference in Environment / Ambience Rating
+Trainer Helpfulness Rating,4.75,4.1,0.65,2.6419,0.022771,Yes,Renewers rate Trainer Helpfulness Rating significantly higher
+Value for Money Rating,4.15,3.5,0.65,2.3524,0.029158,Yes,Renewers rate Value for Money Rating significantly higher
+Overall Composite Satisfaction,4.53,4.1,0.43,3.032,0.007581,Yes,Renewers rate Overall Composite Satisfaction significantly higher

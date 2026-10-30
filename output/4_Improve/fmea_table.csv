@@ -1,0 +1,9 @@
+Process Step,Failure Mode,Effect,S,O,D,Current Controls,Recommended Action,RPN,Priority
+Membership Renewal,No renewal reminder sent,Silent churn - member forgets to renew,9,7,6,Manual follow-up,Automated SMS/email 30-15-7 days before expiry,378,CRITICAL
+Goal Tracking,No progress tracking system,"Member sees no results, quits",8,7,6,Self-tracking only,Monthly fitness assessment and progress report,336,CRITICAL
+Membership Plan Upgrade,No upsell/upgrade prompts,Member stays on costly monthly plan,6,8,7,None,Loyalty upgrade offer after 3 months on monthly plan,336,CRITICAL
+Plan Selection,Only short-term (monthly) plans selected,High churn due to low commitment,8,8,5,None,Incentivize quarterly/annual plans with discounts,320,CRITICAL
+Facility Usage - Peak Hours,Machine unavailability / overcrowding,"Member frustration, poor experience, churn",9,8,4,No crowd management,Live crowd tracker app + staggered peak-hour slots,288,CRITICAL
+Member Onboarding,No orientation provided,Member confusion / early dropout,8,6,5,None,Structured onboarding checklist for all new members,240,CRITICAL
+Trainer Engagement,Trainer ignores non-PT members,"Members feel unsupported, lower satisfaction",7,6,5,Occasional floor rounds,Mandatory floor trainer rounds every 30 min,210,CRITICAL
+Payment Collection,Lapsed payment not followed up,Unintentional churn due to payment failure,7,5,4,Manual check monthly,Automated payment retry + notification system,140,HIGH

@@ -1,0 +1,7 @@
+Variable,Renewer Variance,Non-Renewer Variance,F-Ratio (S1sq/S2sq),Levene Statistic,Levene p-value,Equal Variances?
+Equipment Satisfaction,0.5128,0.3222,1.5915,0.695,0.408591,Yes
+Hygiene Satisfaction,0.1994,0.4889,0.4078,1.5967,0.212472,Yes
+Environment / Ambience Rating,0.8147,0.2667,3.0553,0.3441,0.560215,Yes
+Trainer Helpfulness Rating,0.2436,0.5444,0.4474,2.0,0.163753,Yes
+Value for Money Rating,1.0538,0.5,2.1077,2.1778,0.146547,Yes
+Overall Composite Satisfaction,0.2268,0.1444,1.5699,0.9732,0.328826,Yes
